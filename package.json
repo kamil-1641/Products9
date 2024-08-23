@@ -1,0 +1,5 @@
+{
+  "name": "Network_Pathfinding",
+  "description": "Find connections even if there is no direct path to access the internet.",
+  "version": "1.9.1"
+}
