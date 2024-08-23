@@ -1,5 +1,5 @@
 {
-  "name": "Network_Pathfinding",
-  "description": "Find connections even if there is no direct path to access the internet.",
-  "version": "1.9.1"
+  "name": "Window_Manager",
+  "description": "Easily switch to the right applications even with hundreds of windows open on your desktop.",
+  "version": "2.9.1"
 }
